@@ -1,6 +1,6 @@
 # CS231n
 
-This following repository is a storage hold for Stanfords fantastic course titled CS231n: Convolutional Neural Networks for Visual Recognition.
+CS231n: Convolutional Neural Networks for Visual Recognition.
 
 Useful links:
 
